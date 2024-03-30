@@ -26,7 +26,17 @@ Before getting started, ensure you have the following:
 
     ```
 
-3. Configure the application with your Sepholia test network credentials and other necessary configurations.
+3. Configure the application with your Sepholia test network credentials and other necessary chain using below .
+
+     ```bash
+    
+    import { Sepolia } from "@thirdweb-dev/chains"; 
+
+     <ThirdwebProvider activeChain={Sepolia}>
+
+    ```
+    
+   
 
 4. Run the application:
 
