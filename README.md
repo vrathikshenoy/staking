@@ -50,7 +50,7 @@ Once the application is up and running, users can interact with it through the p
 
 This will typically start the application on http://localhost:3000 (or a different port if specified in your code). You can access the staking interface in your web browser.
 
-# Testing
+## Testing
 
 Thoroughly test your staking application to ensure it functions as expected on the Sepolia testnet. Consider various scenarios, including:
 
@@ -71,7 +71,7 @@ During testing, pay attention to the following aspects:
 By conducting thorough testing, you can increase confidence in the reliability and stability of your staking application, paving the way for a successful deployment on the Sepolia testnet.
 
 
-# Deployment (Optional)
+## Deployment (Optional)
 
 If you intend to deploy your staking application to a mainnet environment, you'll need to:
 
