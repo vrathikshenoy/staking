@@ -87,4 +87,4 @@ Remember that this is a testnet environment, and any ETH or other assets used he
 ## Additional Notes
 
 - Consult Thirdweb's documentation ([Thirdweb Portal](https://portal.thirdweb.com/)) for detailed guidance on interacting with their staking functionalities.
-- Consider using a frontend library like React or Vue.js to build a user-friendly staking interface on top of Thirdweb's capabilities.
+
